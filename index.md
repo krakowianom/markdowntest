@@ -11,3 +11,8 @@ Is header 6 even a header??
 echo i dont even know coding
 ```
 
+- [ ] Learn md
+- [ ] learn git
+- [ ] do the exam
+- [ ] raspberry
+- [ ] learn python
